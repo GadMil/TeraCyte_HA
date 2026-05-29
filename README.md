@@ -19,7 +19,8 @@ The project includes the analysis notebook, standalone training and evaluation s
 ## Files
 
 - `analysis.ipynb`  
-  Main exploratory notebook used for data analysis, model development, experiments, and result comparison.
+  Main exploratory notebook used for data analysis, model development, experiments, and result comparison.  
+  **Note:** GitHub may fail to render this notebook because of Colab/Jupyter widget metadata. The notebook is valid and can be viewed by downloading it and opening it locally, or by opening it in Google Colab/Jupyter.
 
 - `train.py`  
   Standalone training script. It trains the selected model configuration and saves the model weights.
